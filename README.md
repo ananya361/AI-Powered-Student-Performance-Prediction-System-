@@ -125,7 +125,7 @@ Output:
 
 ## Author
 
-Abhinav Krishna C S
+Ananya
 
 ## License
 
